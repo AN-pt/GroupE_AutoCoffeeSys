@@ -1,4 +1,4 @@
-# Testing 
+# Test
 
 This branch stores the functions we will be testing for the Automated Coffee Ordering System before we push these into main.
 
