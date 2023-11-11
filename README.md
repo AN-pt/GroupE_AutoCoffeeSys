@@ -64,8 +64,9 @@ To use the Cafe Management application, follow these steps:
 
 2. Use the GUI to manage items, orders, and receipts.
 
-3. Click the "DETECTION" button to try out the face recognition for customer authentication.
-
+### Disclaimer: This function is still under development.
+3.	Click the "DETECTION" button to try out the face recognition for customer authentication. 
+   
 ## Contributors
 
 The following people have contributed to the AutoCafé:
