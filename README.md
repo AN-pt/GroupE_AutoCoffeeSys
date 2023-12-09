@@ -81,7 +81,7 @@ To see the dependencies required by this project, refer to the `requirements.txt
 
 ## Acknowledgements
 
-We would like to acknowledge the Vietnamese developers who originally created the foundation for this project. Their work was instrumental in making this project possible.
+We would like to acknowledge quangduy201 for being an inspiration for this project (https://github.com/quangduy201/cafe-application).
 
 ## License
 
